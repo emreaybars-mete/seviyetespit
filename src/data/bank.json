@@ -1,0 +1,2043 @@
+[
+ {
+  "id": 1,
+  "l": 0,
+  "t": "g",
+  "q": "She ___ a teacher.",
+  "o": [
+   "is",
+   "are",
+   "am",
+   "be"
+  ],
+  "a": 0
+ },
+ {
+  "id": 2,
+  "l": 0,
+  "t": "g",
+  "q": "We ___ from Turkey.",
+  "o": [
+   "is",
+   "am",
+   "are",
+   "be"
+  ],
+  "a": 2
+ },
+ {
+  "id": 3,
+  "l": 0,
+  "t": "v",
+  "q": "Which word is a fruit?",
+  "o": [
+   "table",
+   "apple",
+   "window",
+   "pencil"
+  ],
+  "a": 1
+ },
+ {
+  "id": 4,
+  "l": 0,
+  "t": "g",
+  "q": "___ you like coffee?",
+  "o": [
+   "Does",
+   "Do",
+   "Are",
+   "Is"
+  ],
+  "a": 1
+ },
+ {
+  "id": 5,
+  "l": 0,
+  "t": "r",
+  "p": "Tom gets up at seven. He has breakfast at half past seven and goes to school at eight.",
+  "q": "When does Tom have breakfast?",
+  "o": [
+   "At seven",
+   "At seven thirty",
+   "At eight",
+   "At eight thirty"
+  ],
+  "a": 1
+ },
+ {
+  "id": 6,
+  "l": 0,
+  "t": "v",
+  "q": "“Thank you.” – “___.”",
+  "o": [
+   "Good night",
+   "You’re welcome",
+   "See you",
+   "I’m fine"
+  ],
+  "a": 1
+ },
+ {
+  "id": 7,
+  "l": 0,
+  "t": "g",
+  "q": "I ___ breakfast every morning.",
+  "o": [
+   "has",
+   "have",
+   "having",
+   "am have"
+  ],
+  "a": 1
+ },
+ {
+  "id": 8,
+  "l": 0,
+  "t": "g",
+  "q": "There ___ two books on the table.",
+  "o": [
+   "is",
+   "are",
+   "be",
+   "am"
+  ],
+  "a": 1
+ },
+ {
+  "id": 9,
+  "l": 0,
+  "t": "v",
+  "q": "What is the day after Monday?",
+  "o": [
+   "Sunday",
+   "Tuesday",
+   "Friday",
+   "Wednesday"
+  ],
+  "a": 1
+ },
+ {
+  "id": 10,
+  "l": 0,
+  "t": "g",
+  "q": "This is ___ umbrella.",
+  "o": [
+   "a",
+   "an",
+   "the one",
+   "some"
+  ],
+  "a": 1
+ },
+ {
+  "id": 11,
+  "l": 0,
+  "t": "r",
+  "p": "Hi, I’m Mia. I’m twelve. I live in London with my mother, my father and my dog, Max.",
+  "q": "Who lives with Mia?",
+  "o": [
+   "Her sister",
+   "Her grandmother",
+   "Her parents and a dog",
+   "Her friends"
+  ],
+  "a": 2
+ },
+ {
+  "id": 12,
+  "l": 0,
+  "t": "v",
+  "q": "I’m hungry. I want to ___.",
+  "o": [
+   "sleep",
+   "eat",
+   "run",
+   "read"
+  ],
+  "a": 1
+ },
+ {
+  "id": 13,
+  "l": 1,
+  "t": "g",
+  "q": "Yesterday I ___ to the cinema with my friends.",
+  "o": [
+   "go",
+   "goes",
+   "went",
+   "gone"
+  ],
+  "a": 2
+ },
+ {
+  "id": 14,
+  "l": 1,
+  "t": "g",
+  "q": "My brother is ___ than me.",
+  "o": [
+   "tall",
+   "taller",
+   "tallest",
+   "more tall"
+  ],
+  "a": 1
+ },
+ {
+  "id": 15,
+  "l": 1,
+  "t": "v",
+  "q": "You use a ___ to cut paper.",
+  "o": [
+   "spoon",
+   "brush",
+   "pair of scissors",
+   "key"
+  ],
+  "a": 2
+ },
+ {
+  "id": 16,
+  "l": 1,
+  "t": "g",
+  "q": "I’m going to ___ my grandmother this weekend.",
+  "o": [
+   "visit",
+   "visiting",
+   "visited",
+   "to visit"
+  ],
+  "a": 0
+ },
+ {
+  "id": 17,
+  "l": 1,
+  "t": "r",
+  "p": "Sorry, I can’t come to the party on Saturday. I have to work until late. Let’s meet on Sunday for lunch instead. – Anna",
+  "q": "Why can’t Anna come on Saturday?",
+  "o": [
+   "She is ill",
+   "She is on holiday",
+   "She has to work",
+   "She has another party"
+  ],
+  "a": 2
+ },
+ {
+  "id": 18,
+  "l": 1,
+  "t": "v",
+  "q": "The opposite of “expensive” is ___.",
+  "o": [
+   "cheap",
+   "heavy",
+   "early",
+   "quiet"
+  ],
+  "a": 0
+ },
+ {
+  "id": 19,
+  "l": 1,
+  "t": "g",
+  "q": "I’ve never ___ sushi.",
+  "o": [
+   "eat",
+   "ate",
+   "eaten",
+   "eating"
+  ],
+  "a": 2
+ },
+ {
+  "id": 20,
+  "l": 1,
+  "t": "g",
+  "q": "You ___ smoke in the hospital. It’s forbidden.",
+  "o": [
+   "mustn’t",
+   "don’t have to",
+   "needn’t",
+   "might"
+  ],
+  "a": 0
+ },
+ {
+  "id": 21,
+  "l": 1,
+  "t": "v",
+  "q": "I missed the bus, so I was ___ for work.",
+  "o": [
+   "late",
+   "lately",
+   "last",
+   "later on"
+  ],
+  "a": 0
+ },
+ {
+  "id": 22,
+  "l": 1,
+  "t": "g",
+  "q": "How ___ water do you drink every day?",
+  "o": [
+   "many",
+   "much",
+   "few",
+   "lot"
+  ],
+  "a": 1
+ },
+ {
+  "id": 23,
+  "l": 1,
+  "t": "r",
+  "p": "The library is open from 9 a.m. to 6 p.m. on weekdays and from 10 a.m. to 2 p.m. on Saturdays. It is closed on Sundays.",
+  "q": "When can you visit the library at 5 p.m.?",
+  "o": [
+   "On Saturday",
+   "On Sunday",
+   "On Monday",
+   "Never"
+  ],
+  "a": 2
+ },
+ {
+  "id": 24,
+  "l": 1,
+  "t": "v",
+  "q": "A person who writes articles for a newspaper is a ___.",
+  "o": [
+   "journalist",
+   "dentist",
+   "pilot",
+   "farmer"
+  ],
+  "a": 0
+ },
+ {
+  "id": 25,
+  "l": 2,
+  "t": "g",
+  "q": "If it ___ tomorrow, we will stay at home.",
+  "o": [
+   "will rain",
+   "rains",
+   "rained",
+   "is raining"
+  ],
+  "a": 1
+ },
+ {
+  "id": 26,
+  "l": 2,
+  "t": "g",
+  "q": "I have lived in Istanbul ___ 2019.",
+  "o": [
+   "for",
+   "since",
+   "from",
+   "during"
+  ],
+  "a": 1
+ },
+ {
+  "id": 27,
+  "l": 2,
+  "t": "v",
+  "q": "He was ___ for being late, so he apologised.",
+  "o": [
+   "embarrassed",
+   "excited",
+   "bored",
+   "generous"
+  ],
+  "a": 0
+ },
+ {
+  "id": 28,
+  "l": 2,
+  "t": "g",
+  "q": "The report ___ by the manager yesterday.",
+  "o": [
+   "wrote",
+   "was written",
+   "has written",
+   "is writing"
+  ],
+  "a": 1
+ },
+ {
+  "id": 29,
+  "l": 2,
+  "t": "r",
+  "p": "Many cities are introducing “car-free days” to reduce pollution. On these days, only buses and bicycles may use the main streets. Shops report that more people walk past their windows, although some drivers complain.",
+  "q": "What is the main purpose of car-free days?",
+  "o": [
+   "To help shops",
+   "To reduce pollution",
+   "To make buses faster",
+   "To punish drivers"
+  ],
+  "a": 1
+ },
+ {
+  "id": 30,
+  "l": 2,
+  "t": "v",
+  "q": "I’m not sure about the price, so I’ll ___ the website.",
+  "o": [
+   "check",
+   "pass",
+   "carry",
+   "hold"
+  ],
+  "a": 0
+ },
+ {
+  "id": 31,
+  "l": 2,
+  "t": "g",
+  "q": "She asked me where ___.",
+  "o": [
+   "did I live",
+   "I lived",
+   "do I live",
+   "I do live"
+  ],
+  "a": 1
+ },
+ {
+  "id": 32,
+  "l": 2,
+  "t": "g",
+  "q": "I’m not used to ___ up so early.",
+  "o": [
+   "get",
+   "getting",
+   "got",
+   "be getting"
+  ],
+  "a": 1
+ },
+ {
+  "id": 33,
+  "l": 2,
+  "t": "v",
+  "q": "We need to ___ a decision before Friday.",
+  "o": [
+   "do",
+   "make",
+   "take part",
+   "have done"
+  ],
+  "a": 1
+ },
+ {
+  "id": 34,
+  "l": 2,
+  "t": "g",
+  "q": "He said he ___ call me later.",
+  "o": [
+   "will",
+   "would",
+   "is going",
+   "shall"
+  ],
+  "a": 1
+ },
+ {
+  "id": 35,
+  "l": 2,
+  "t": "r",
+  "p": "Maya started cycling to work last year to save money. She now says she feels healthier and arrives earlier than colleagues who drive, because she avoids traffic.",
+  "q": "What is one benefit Maya mentions?",
+  "o": [
+   "She earns more",
+   "She avoids traffic",
+   "She works fewer hours",
+   "She owns a new car"
+  ],
+  "a": 1
+ },
+ {
+  "id": 36,
+  "l": 2,
+  "t": "v",
+  "q": "The hotel was fully ___, so we stayed elsewhere.",
+  "o": [
+   "booked",
+   "crowded",
+   "packed up",
+   "reserved on"
+  ],
+  "a": 0
+ },
+ {
+  "id": 37,
+  "l": 3,
+  "t": "g",
+  "q": "If I ___ you, I would accept the offer.",
+  "o": [
+   "am",
+   "was being",
+   "were",
+   "had been"
+  ],
+  "a": 2
+ },
+ {
+  "id": 38,
+  "l": 3,
+  "t": "g",
+  "q": "By the time we arrived, the film ___.",
+  "o": [
+   "already started",
+   "had already started",
+   "has already started",
+   "was already starting"
+  ],
+  "a": 1
+ },
+ {
+  "id": 39,
+  "l": 3,
+  "t": "v",
+  "q": "The company decided to ___ the contract after the dispute.",
+  "o": [
+   "terminate",
+   "terrify",
+   "tolerate",
+   "translate"
+  ],
+  "a": 0
+ },
+ {
+  "id": 40,
+  "l": 3,
+  "t": "g",
+  "q": "She suggested ___ the meeting until next week.",
+  "o": [
+   "to postpone",
+   "postponing",
+   "postpone",
+   "to postponing"
+  ],
+  "a": 1
+ },
+ {
+  "id": 41,
+  "l": 3,
+  "t": "r",
+  "p": "Although remote work has increased productivity for many employees, managers worry that it weakens team spirit. Several firms now ask staff to spend at least two days a week in the office.",
+  "q": "What is the managers’ concern?",
+  "o": [
+   "Staff work too many hours",
+   "Remote work lowers productivity",
+   "Teams may lose their sense of unity",
+   "Offices are too expensive"
+  ],
+  "a": 2
+ },
+ {
+  "id": 42,
+  "l": 3,
+  "t": "v",
+  "q": "His explanation was so ___ that nobody believed him.",
+  "o": [
+   "plausible",
+   "far-fetched",
+   "straightforward",
+   "concise"
+  ],
+  "a": 1
+ },
+ {
+  "id": 43,
+  "l": 3,
+  "t": "g",
+  "q": "I wish I ___ more time to travel.",
+  "o": [
+   "have",
+   "had",
+   "would have",
+   "will have"
+  ],
+  "a": 1
+ },
+ {
+  "id": 44,
+  "l": 3,
+  "t": "g",
+  "q": "The more you practise, ___ you become.",
+  "o": [
+   "the better",
+   "better",
+   "the best",
+   "as better"
+  ],
+  "a": 0
+ },
+ {
+  "id": 45,
+  "l": 3,
+  "t": "v",
+  "q": "The government has promised to ___ the problem of unemployment.",
+  "o": [
+   "tackle",
+   "tickle",
+   "tackled up",
+   "take"
+  ],
+  "a": 0
+ },
+ {
+  "id": 46,
+  "l": 3,
+  "t": "g",
+  "q": "She is said ___ five languages.",
+  "o": [
+   "to speak",
+   "speaking",
+   "to be spoken",
+   "she speaks"
+  ],
+  "a": 0
+ },
+ {
+  "id": 47,
+  "l": 3,
+  "t": "r",
+  "p": "Critics argued that the new tax would hurt small businesses most, since larger firms can easily absorb extra costs. Supporters replied that the revenue would fund much-needed public services.",
+  "q": "Why do critics oppose the tax?",
+  "o": [
+   "It raises too little money",
+   "It burdens small firms more than large ones",
+   "It helps large firms",
+   "It cuts public services"
+  ],
+  "a": 1
+ },
+ {
+  "id": 48,
+  "l": 3,
+  "t": "v",
+  "q": "Despite his ___ appearance, he turned out to be very kind.",
+  "o": [
+   "intimidating",
+   "intimate",
+   "intricate",
+   "initial"
+  ],
+  "a": 0
+ },
+ {
+  "id": 49,
+  "l": 4,
+  "t": "g",
+  "q": "Not until the results were published ___ the scale of the problem.",
+  "o": [
+   "we realised",
+   "did we realise",
+   "we did realise",
+   "realised we"
+  ],
+  "a": 1
+ },
+ {
+  "id": 50,
+  "l": 4,
+  "t": "g",
+  "q": "Had she known about the delay, she ___ earlier.",
+  "o": [
+   "would leave",
+   "would have left",
+   "had left",
+   "will have left"
+  ],
+  "a": 1
+ },
+ {
+  "id": 51,
+  "l": 4,
+  "t": "v",
+  "q": "The minister’s remarks were deliberately ___, leaving room for several interpretations.",
+  "o": [
+   "ambiguous",
+   "blatant",
+   "candid",
+   "explicit"
+  ],
+  "a": 0
+ },
+ {
+  "id": 52,
+  "l": 4,
+  "t": "v",
+  "q": "The new policy is likely to ___ existing inequalities.",
+  "o": [
+   "exacerbate",
+   "alleviate",
+   "obliterate",
+   "accumulate"
+  ],
+  "a": 0
+ },
+ {
+  "id": 53,
+  "l": 4,
+  "t": "r",
+  "p": "The author’s prose is deceptively simple: short sentences that seem artless but, on closer reading, carry a restrained irony. Critics who dismiss the book as sentimental have, arguably, missed the point.",
+  "q": "What does the writer imply about the critics?",
+  "o": [
+   "They admire the irony",
+   "They have misread the book",
+   "They prefer long sentences",
+   "They wrote the book themselves"
+  ],
+  "a": 1
+ },
+ {
+  "id": 54,
+  "l": 4,
+  "t": "g",
+  "q": "The proposal, ___ details were still confidential, drew heavy criticism.",
+  "o": [
+   "which",
+   "whose",
+   "of which the",
+   "that its"
+  ],
+  "a": 1
+ },
+ {
+  "id": 55,
+  "l": 4,
+  "t": "g",
+  "q": "Rarely ___ such a talented young musician.",
+  "o": [
+   "I have seen",
+   "have I seen",
+   "I seen",
+   "did I saw"
+  ],
+  "a": 1
+ },
+ {
+  "id": 56,
+  "l": 4,
+  "t": "g",
+  "q": "It is high time the authorities ___ action.",
+  "o": [
+   "take",
+   "took",
+   "will take",
+   "have taken to"
+  ],
+  "a": 1
+ },
+ {
+  "id": 57,
+  "l": 4,
+  "t": "v",
+  "q": "Her argument, though elegant, was ultimately ___; it ignored the key evidence.",
+  "o": [
+   "untenable",
+   "inevitable",
+   "insatiable",
+   "indelible"
+  ],
+  "a": 0
+ },
+ {
+  "id": 58,
+  "l": 4,
+  "t": "v",
+  "q": "The CEO’s resignation sent ___ through the markets.",
+  "o": [
+   "ripples",
+   "rivets",
+   "rafters",
+   "ruptures of"
+  ],
+  "a": 0
+ },
+ {
+  "id": 59,
+  "l": 4,
+  "t": "r",
+  "p": "While the study found a correlation between screen time and poor sleep, the authors caution that causation cannot be inferred: it may be that sleepless teenagers simply turn to their phones.",
+  "q": "What do the authors suggest?",
+  "o": [
+   "Screen time definitely causes poor sleep",
+   "Poor sleep might lead to more screen use",
+   "Phones improve sleep",
+   "The study found no link"
+  ],
+  "a": 1
+ },
+ {
+  "id": 60,
+  "l": 4,
+  "t": "g",
+  "q": "No sooner ___ the door than the phone rang.",
+  "o": [
+   "she had opened",
+   "had she opened",
+   "she opened",
+   "did she opened"
+  ],
+  "a": 1
+ },
+ {
+  "id": 61,
+  "l": 5,
+  "t": "v",
+  "q": "Her ___ remarks at the dinner left everyone uncomfortable.",
+  "o": [
+   "sanguine",
+   "pithy",
+   "acerbic",
+   "languid"
+  ],
+  "a": 2
+ },
+ {
+  "id": 62,
+  "l": 5,
+  "t": "g",
+  "q": "So ___ was the evidence that the jury needed only minutes to decide.",
+  "o": [
+   "compelling",
+   "compellingly",
+   "compel",
+   "a compelling"
+  ],
+  "a": 0
+ },
+ {
+  "id": 63,
+  "l": 5,
+  "t": "v",
+  "q": "To “let sleeping dogs lie” means to ___.",
+  "o": [
+   "avoid disturbing a situation that is currently calm",
+   "punish old offenders",
+   "rest after hard work",
+   "trust a loyal friend"
+  ],
+  "a": 0
+ },
+ {
+  "id": 64,
+  "l": 5,
+  "t": "g",
+  "q": "Were it not for his intervention, the negotiations ___ long ago.",
+  "o": [
+   "would collapse",
+   "would have collapsed",
+   "had collapsed",
+   "collapsed"
+  ],
+  "a": 1
+ },
+ {
+  "id": 65,
+  "l": 5,
+  "t": "r",
+  "p": "The treaty’s drafters, mindful of past failures, chose language that was capacious enough to accommodate rival readings, a strategy that secured signatures at the cost of enforceability.",
+  "q": "What was the trade-off of the drafters’ approach?",
+  "o": [
+   "Speed for accuracy",
+   "Agreement for enforceability",
+   "Secrecy for publicity",
+   "Brevity for detail"
+  ],
+  "a": 1
+ },
+ {
+  "id": 66,
+  "l": 5,
+  "t": "v",
+  "q": "The politician’s ___ rise surprised even her closest allies.",
+  "o": [
+   "meteoric",
+   "mundane",
+   "tentative",
+   "gradual"
+  ],
+  "a": 0
+ },
+ {
+  "id": 67,
+  "l": 5,
+  "t": "v",
+  "q": "His ___ prose, full of arcane allusions, deterred casual readers.",
+  "o": [
+   "recondite",
+   "lucid",
+   "jaunty",
+   "terse"
+  ],
+  "a": 0
+ },
+ {
+  "id": 68,
+  "l": 5,
+  "t": "g",
+  "q": "Much as I ___ to help, I simply cannot.",
+  "o": [
+   "would like",
+   "will like",
+   "liked to",
+   "am liking"
+  ],
+  "a": 0
+ },
+ {
+  "id": 69,
+  "l": 5,
+  "t": "v",
+  "q": "The two reports are at ___ with each other, so one must be wrong.",
+  "o": [
+   "odds",
+   "ends",
+   "length",
+   "large"
+  ],
+  "a": 0
+ },
+ {
+  "id": 70,
+  "l": 5,
+  "t": "g",
+  "q": "Whatever his faults, he ___ be accused of dishonesty.",
+  "o": [
+   "can hardly",
+   "hardly can’t",
+   "can’t hardly",
+   "hardly"
+  ],
+  "a": 0
+ },
+ {
+  "id": 71,
+  "l": 5,
+  "t": "r",
+  "p": "The memoir is less an act of confession than of curation: each anecdote has been so carefully polished that the reader senses the author guarding as much as revealing.",
+  "q": "What is the reviewer’s view of the memoir?",
+  "o": [
+   "It is brutally honest",
+   "It is selective and controlled",
+   "It is badly written",
+   "It is too short"
+  ],
+  "a": 1
+ },
+ {
+  "id": 72,
+  "l": 5,
+  "t": "v",
+  "q": "To “burn the candle at both ends” means to ___.",
+  "o": [
+   "exhaust yourself by doing too much",
+   "waste money",
+   "work in a dark room",
+   "finish a task twice"
+  ],
+  "a": 0
+ },
+ {
+  "id": 73,
+  "l": 0,
+  "t": "g",
+  "q": "He ___ football on Sundays.",
+  "o": [
+   "play",
+   "plays",
+   "playing",
+   "is play"
+  ],
+  "a": 1
+ },
+ {
+  "id": 74,
+  "l": 0,
+  "t": "v",
+  "q": "A ___ has four legs and you sit on it.",
+  "o": [
+   "chair",
+   "door",
+   "window",
+   "cup"
+  ],
+  "a": 0
+ },
+ {
+  "id": 75,
+  "l": 0,
+  "t": "g",
+  "q": "What ___ your name?",
+  "o": [
+   "are",
+   "is",
+   "am",
+   "be"
+  ],
+  "a": 1
+ },
+ {
+  "id": 76,
+  "l": 0,
+  "t": "r",
+  "p": "Anna works in a bakery. She starts at six in the morning and finishes at two in the afternoon.",
+  "q": "When does Anna finish work?",
+  "o": [
+   "At six in the morning",
+   "At two in the afternoon",
+   "At noon",
+   "At six in the evening"
+  ],
+  "a": 1
+ },
+ {
+  "id": 77,
+  "l": 1,
+  "t": "g",
+  "q": "If you heat ice, it ___.",
+  "o": [
+   "melts",
+   "melt",
+   "melted",
+   "is melt"
+  ],
+  "a": 0
+ },
+ {
+  "id": 78,
+  "l": 1,
+  "t": "g",
+  "q": "She doesn’t have ___ money left.",
+  "o": [
+   "some",
+   "any",
+   "many",
+   "a"
+  ],
+  "a": 1
+ },
+ {
+  "id": 79,
+  "l": 1,
+  "t": "v",
+  "q": "I have a terrible headache. I need to take a ___.",
+  "o": [
+   "tablet",
+   "ticket",
+   "tomato",
+   "towel"
+  ],
+  "a": 0
+ },
+ {
+  "id": 80,
+  "l": 1,
+  "t": "r",
+  "p": "Dear Tom, thank you for the lovely present. I’ve wanted a camera for ages! I’m going to take it on holiday next week. Love, Jo",
+  "q": "What did Jo receive?",
+  "o": [
+   "A camera",
+   "A book",
+   "A holiday",
+   "A ticket"
+  ],
+  "a": 0
+ },
+ {
+  "id": 81,
+  "l": 2,
+  "t": "g",
+  "q": "You ___ wear a seat belt. It’s the law.",
+  "o": [
+   "have to",
+   "can",
+   "might",
+   "would"
+  ],
+  "a": 0
+ },
+ {
+  "id": 82,
+  "l": 2,
+  "t": "g",
+  "q": "She’s the woman ___ lives next door.",
+  "o": [
+   "who",
+   "whose",
+   "which",
+   "whom she"
+  ],
+  "a": 0
+ },
+ {
+  "id": 83,
+  "l": 2,
+  "t": "v",
+  "q": "I’m really ___ in learning about history.",
+  "o": [
+   "interested",
+   "interesting",
+   "interest",
+   "interests"
+  ],
+  "a": 0
+ },
+ {
+  "id": 84,
+  "l": 2,
+  "t": "r",
+  "p": "The new café on Park Street has become popular because it offers free Wi-Fi and cheap breakfasts. However, some customers complain that it is too noisy in the morning.",
+  "q": "What is a complaint about the café?",
+  "o": [
+   "The food is expensive",
+   "It is noisy in the morning",
+   "There is no Wi-Fi",
+   "It is far away"
+  ],
+  "a": 1
+ },
+ {
+  "id": 85,
+  "l": 3,
+  "t": "g",
+  "q": "He denied ___ the money.",
+  "o": [
+   "to take",
+   "taking",
+   "take",
+   "having took"
+  ],
+  "a": 1
+ },
+ {
+  "id": 86,
+  "l": 3,
+  "t": "g",
+  "q": "Hardly had we sat down ___ the waiter brought the menus.",
+  "o": [
+   "than",
+   "when",
+   "then",
+   "that"
+  ],
+  "a": 1
+ },
+ {
+  "id": 87,
+  "l": 3,
+  "t": "v",
+  "q": "The manager asked us to keep the information ___ until the announcement.",
+  "o": [
+   "confidential",
+   "confident",
+   "confidence",
+   "confide"
+  ],
+  "a": 0
+ },
+ {
+  "id": 88,
+  "l": 3,
+  "t": "v",
+  "q": "She has a ___ for languages and picked up Spanish in a few months.",
+  "o": [
+   "gift",
+   "present",
+   "talent of",
+   "skill of"
+  ],
+  "a": 0
+ },
+ {
+  "id": 89,
+  "l": 4,
+  "t": "g",
+  "q": "I’d rather you ___ anyone about this.",
+  "o": [
+   "don’t tell",
+   "didn’t tell",
+   "won’t tell",
+   "not told"
+  ],
+  "a": 1
+ },
+ {
+  "id": 90,
+  "l": 4,
+  "t": "v",
+  "q": "The evidence was ___ enough to convince even the sceptics.",
+  "o": [
+   "compelling",
+   "compulsive",
+   "compulsory",
+   "complacent"
+  ],
+  "a": 0
+ },
+ {
+  "id": 91,
+  "l": 4,
+  "t": "g",
+  "q": "Only after the meeting ___ that the decision had been made.",
+  "o": [
+   "I learned",
+   "did I learn",
+   "I did learn",
+   "learned I"
+  ],
+  "a": 1
+ },
+ {
+  "id": 92,
+  "l": 4,
+  "t": "r",
+  "p": "Although the film was a commercial success, many reviewers felt that its spectacle came at the expense of character development.",
+  "q": "What criticism did reviewers make?",
+  "o": [
+   "It earned little money",
+   "It lacked depth in its characters",
+   "It was too short",
+   "It had too few special effects"
+  ],
+  "a": 1
+ },
+ {
+  "id": 93,
+  "l": 5,
+  "t": "v",
+  "q": "The comment was deliberately ___: it could be read as praise or as a veiled insult.",
+  "o": [
+   "oblique",
+   "oblivious",
+   "obsolete",
+   "obstinate"
+  ],
+  "a": 0
+ },
+ {
+  "id": 94,
+  "l": 5,
+  "t": "g",
+  "q": "Such ___ his reputation that few dared to challenge him.",
+  "o": [
+   "was",
+   "had",
+   "did",
+   "is being"
+  ],
+  "a": 0
+ },
+ {
+  "id": 95,
+  "l": 5,
+  "t": "v",
+  "q": "The scandal had a ___ effect on the party’s fortunes, damaging it for years.",
+  "o": [
+   "pernicious",
+   "punctual",
+   "pious",
+   "pliant"
+  ],
+  "a": 0
+ },
+ {
+  "id": 96,
+  "l": 5,
+  "t": "r",
+  "p": "Her novels are routinely described as “accessible”, a label that flatters sales figures while quietly condescending to the sophistication of her technique.",
+  "q": "What is the writer’s attitude toward the label “accessible”?",
+  "o": [
+   "Approving",
+   "Mildly critical",
+   "Indifferent",
+   "Enthusiastic"
+  ],
+  "a": 1
+ },
+ {
+  "id": 97,
+  "l": 0,
+  "t": "w",
+  "q": "Complete: My sister ___ (like) pizza.",
+  "ans": [
+   "likes"
+  ]
+ },
+ {
+  "id": 98,
+  "l": 0,
+  "t": "w",
+  "q": "Complete: I ___ (be) twenty years old.",
+  "ans": [
+   "am"
+  ]
+ },
+ {
+  "id": 99,
+  "l": 0,
+  "t": "w",
+  "q": "Complete: They ___ (not / have) a car.",
+  "ans": [
+   "don't have",
+   "do not have",
+   "dont have"
+  ]
+ },
+ {
+  "id": 100,
+  "l": 0,
+  "t": "w",
+  "q": "Write the plural: one child, two ___.",
+  "ans": [
+   "children"
+  ]
+ },
+ {
+  "id": 101,
+  "l": 1,
+  "t": "w",
+  "q": "Complete: Last year we ___ (visit) Italy.",
+  "ans": [
+   "visited"
+  ]
+ },
+ {
+  "id": 102,
+  "l": 1,
+  "t": "w",
+  "q": "Complete: Today is the ___ (hot) day of the year.",
+  "ans": [
+   "hottest"
+  ]
+ },
+ {
+  "id": 103,
+  "l": 1,
+  "t": "w",
+  "q": "Complete: He ___ (watch) TV when I called him.",
+  "ans": [
+   "was watching"
+  ]
+ },
+ {
+  "id": 104,
+  "l": 1,
+  "t": "w",
+  "q": "Put the words in order: you / where / live / do ?",
+  "ans": [
+   "where do you live"
+  ]
+ },
+ {
+  "id": 105,
+  "l": 2,
+  "t": "w",
+  "q": "Complete: If I ___ (have) more money, I would buy a bigger house.",
+  "ans": [
+   "had"
+  ]
+ },
+ {
+  "id": 106,
+  "l": 2,
+  "t": "w",
+  "q": "Complete: The window ___ (break) by the boys yesterday.",
+  "ans": [
+   "was broken"
+  ]
+ },
+ {
+  "id": 107,
+  "l": 2,
+  "t": "w",
+  "q": "Complete: I’m looking forward to ___ (see) you.",
+  "ans": [
+   "seeing"
+  ]
+ },
+ {
+  "id": 108,
+  "l": 2,
+  "t": "w",
+  "q": "Put the words in order: never / been / has / she / to / Paris",
+  "ans": [
+   "she has never been to paris"
+  ]
+ },
+ {
+  "id": 109,
+  "l": 3,
+  "t": "w",
+  "q": "Complete: By next June, I ___ (work) here for ten years.",
+  "ans": [
+   "will have worked",
+   "will have been working"
+  ]
+ },
+ {
+  "id": 110,
+  "l": 3,
+  "t": "w",
+  "q": "Complete: “I’ll call you tomorrow,” she said. → She said she ___ me the next day.",
+  "ans": [
+   "would call",
+   "would phone",
+   "would ring"
+  ]
+ },
+ {
+  "id": 111,
+  "l": 3,
+  "t": "w",
+  "q": "Complete: He regrets ___ (not / study) harder at school.",
+  "ans": [
+   "not studying",
+   "not having studied"
+  ]
+ },
+ {
+  "id": 112,
+  "l": 3,
+  "t": "w",
+  "q": "Complete: It’s a pity I didn’t go to the party. → I wish I ___ to the party.",
+  "ans": [
+   "had gone"
+  ]
+ },
+ {
+  "id": 113,
+  "l": 4,
+  "t": "w",
+  "q": "Complete: Had I known the truth, I ___ (tell) you.",
+  "ans": [
+   "would have told"
+  ]
+ },
+ {
+  "id": 114,
+  "l": 4,
+  "t": "w",
+  "q": "Complete: The doctor recommended that he ___ (take) more rest.",
+  "ans": [
+   "take",
+   "should take"
+  ]
+ },
+ {
+  "id": 115,
+  "l": 4,
+  "t": "w",
+  "q": "Complete: Not only ___ late, but he also forgot the documents. (he / arrive)",
+  "ans": [
+   "did he arrive"
+  ]
+ },
+ {
+  "id": 116,
+  "l": 4,
+  "t": "w",
+  "q": "Complete: The more carefully you plan, the ___ (few) mistakes you will make.",
+  "ans": [
+   "fewer"
+  ]
+ },
+ {
+  "id": 117,
+  "l": 5,
+  "t": "w",
+  "q": "Write one word: Were it not ___ your help, we would have failed.",
+  "ans": [
+   "for"
+  ]
+ },
+ {
+  "id": 118,
+  "l": 5,
+  "t": "w",
+  "q": "Write one word: She made light ___ the problem, which worried her colleagues.",
+  "ans": [
+   "of"
+  ]
+ },
+ {
+  "id": 119,
+  "l": 5,
+  "t": "w",
+  "q": "Complete: It is believed that the painting was stolen in 1990. → The painting is believed ___ stolen in 1990.",
+  "ans": [
+   "to have been"
+  ]
+ },
+ {
+  "id": 120,
+  "l": 5,
+  "t": "w",
+  "q": "Complete: At no time ___ that he would resign. (he / suggest)",
+  "ans": [
+   "did he suggest"
+  ]
+ },
+ {
+  "id": 121,
+  "l": 0,
+  "t": "l",
+  "say": "My name is Sara. I am eight years old. I like cats.",
+  "q": "How old is Sara?",
+  "o": [
+   "Six",
+   "Eight",
+   "Eighteen",
+   "Eighty"
+  ],
+  "a": 1
+ },
+ {
+  "id": 122,
+  "l": 0,
+  "t": "l",
+  "say": "The shop opens at nine o'clock.",
+  "q": "When does the shop open?",
+  "o": [
+   "At five",
+   "At nine",
+   "At eleven",
+   "At twelve"
+  ],
+  "a": 1
+ },
+ {
+  "id": 123,
+  "l": 0,
+  "t": "l",
+  "say": "I have two brothers and one sister.",
+  "q": "How many brothers does the speaker have?",
+  "o": [
+   "One",
+   "Two",
+   "Three",
+   "Four"
+  ],
+  "a": 1
+ },
+ {
+  "id": 124,
+  "l": 1,
+  "t": "l",
+  "say": "Excuse me, how do I get to the station? Go straight, then turn left at the bank. It's next to the post office.",
+  "q": "Where is the station?",
+  "o": [
+   "Next to the post office",
+   "Behind the hotel",
+   "Opposite the school",
+   "Next to the library"
+  ],
+  "a": 0
+ },
+ {
+  "id": 125,
+  "l": 1,
+  "t": "l",
+  "say": "I'd like a large coffee and a chocolate muffin, please. That's six pounds fifty.",
+  "q": "What does the customer order?",
+  "o": [
+   "Tea and a sandwich",
+   "A large coffee and a muffin",
+   "A small coffee and a cake",
+   "Juice and a muffin"
+  ],
+  "a": 1
+ },
+ {
+  "id": 126,
+  "l": 1,
+  "t": "l",
+  "say": "The weather will be sunny in the morning, but it will rain in the afternoon, so take an umbrella.",
+  "q": "What should you take?",
+  "o": [
+   "A hat",
+   "An umbrella",
+   "Sunglasses",
+   "A coat"
+  ],
+  "a": 1
+ },
+ {
+  "id": 127,
+  "l": 2,
+  "t": "l",
+  "say": "Hello, this is Mark from the gym. Your class on Thursday has been moved from six to seven p.m. Please call us if that doesn't suit you.",
+  "q": "What has changed?",
+  "o": [
+   "The day of the class",
+   "The time of the class",
+   "The place of the class",
+   "The teacher"
+  ],
+  "a": 1
+ },
+ {
+  "id": 128,
+  "l": 2,
+  "t": "l",
+  "say": "I used to live in a small village, but I moved to the city for work. I miss the quiet, though.",
+  "q": "What does the speaker miss?",
+  "o": [
+   "Her job",
+   "The quiet",
+   "The city",
+   "Her colleagues"
+  ],
+  "a": 1
+ },
+ {
+  "id": 129,
+  "l": 2,
+  "t": "l",
+  "say": "The museum is free on Sundays, but you have to book a ticket online because it gets very crowded.",
+  "q": "What must visitors do on Sundays?",
+  "o": [
+   "Pay at the door",
+   "Book online",
+   "Arrive before nine",
+   "Bring a student card"
+  ],
+  "a": 1
+ },
+ {
+  "id": 130,
+  "l": 3,
+  "t": "l",
+  "say": "Although the new phone has a better camera, the reviewers were disappointed by its battery life, which barely lasts a full day.",
+  "q": "What did the reviewers criticise?",
+  "o": [
+   "The camera",
+   "The price",
+   "The battery life",
+   "The screen"
+  ],
+  "a": 2
+ },
+ {
+  "id": 131,
+  "l": 3,
+  "t": "l",
+  "say": "If you'd told me earlier that the flight was cancelled, I could have rebooked for this evening. Now everything is fully booked until Friday.",
+  "q": "What is the speaker's problem?",
+  "o": [
+   "The flight was delayed by a day",
+   "All later flights are full until Friday",
+   "The ticket is too expensive",
+   "The airline lost their luggage"
+  ],
+  "a": 1
+ },
+ {
+  "id": 132,
+  "l": 3,
+  "t": "l",
+  "say": "Our sales rose by twelve percent last quarter, mainly thanks to the online store, whereas the high-street shops performed poorly.",
+  "q": "What caused the sales increase?",
+  "o": [
+   "High-street shops",
+   "The online store",
+   "Lower prices",
+   "A new product"
+  ],
+  "a": 1
+ },
+ {
+  "id": 133,
+  "l": 4,
+  "t": "l",
+  "say": "Far from being a setback, the delay gave the team time to refine the design, which ultimately proved decisive in winning the contract.",
+  "q": "How does the speaker see the delay?",
+  "o": [
+   "As a disaster",
+   "As beneficial in the end",
+   "As the team's fault",
+   "As irrelevant"
+  ],
+  "a": 1
+ },
+ {
+  "id": 134,
+  "l": 4,
+  "t": "l",
+  "say": "The committee has been criticised for what some call a conspicuous lack of transparency, though its chair insists that confidentiality was essential.",
+  "q": "What is the chair's defence?",
+  "o": [
+   "Confidentiality was necessary",
+   "Transparency is overrated",
+   "The criticism is unfair to the media",
+   "The committee was too small"
+  ],
+  "a": 0
+ },
+ {
+  "id": 135,
+  "l": 4,
+  "t": "l",
+  "say": "Had the bridge been inspected more rigorously, the collapse might well have been averted, the report concludes.",
+  "q": "What does the report conclude?",
+  "o": [
+   "The collapse was unavoidable",
+   "Better inspection could have prevented the collapse",
+   "The bridge was inspected too often",
+   "The inspectors were praised"
+  ],
+  "a": 1
+ },
+ {
+  "id": 136,
+  "l": 5,
+  "t": "l",
+  "say": "Her speech was a masterclass in equivocation: ostensibly addressing the critics, she conceded nothing and committed to even less.",
+  "q": "What is the speaker's judgement of the speech?",
+  "o": [
+   "It was candid and detailed",
+   "It appeared to respond but avoided commitment",
+   "It was short and emotional",
+   "It attacked the critics fiercely"
+  ],
+  "a": 1
+ },
+ {
+  "id": 137,
+  "l": 5,
+  "t": "l",
+  "say": "Notwithstanding the exhaustive documentation, the tribunal found the claimants' account of events irreconcilable with the contemporaneous records.",
+  "q": "What did the tribunal conclude?",
+  "o": [
+   "The documents were missing",
+   "The claimants' account contradicted the records",
+   "The records were forged",
+   "The claim was settled"
+  ],
+  "a": 1
+ },
+ {
+  "id": 138,
+  "l": 5,
+  "t": "l",
+  "say": "The economist argued, with characteristic pith, that austerity is less a policy than a moral posture dressed up as arithmetic.",
+  "q": "What is the economist's view of austerity?",
+  "o": [
+   "It is a purely mathematical necessity",
+   "It is ideology presented as maths",
+   "It is essential for growth",
+   "It is outdated"
+  ],
+  "a": 1
+ },
+ {
+  "id": 139,
+  "l": 0,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "i",
+   "like",
+   "black",
+   "coffee"
+  ],
+  "s": "I like black coffee"
+ },
+ {
+  "id": 140,
+  "l": 0,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "she",
+   "is",
+   "my",
+   "best",
+   "friend"
+  ],
+  "s": "She is my best friend"
+ },
+ {
+  "id": 141,
+  "l": 0,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "we",
+   "are",
+   "at",
+   "home"
+  ],
+  "s": "We are at home"
+ },
+ {
+  "id": 142,
+  "l": 1,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "he",
+   "went",
+   "to",
+   "the",
+   "market",
+   "yesterday"
+  ],
+  "s": "He went to the market yesterday",
+  "alt": [
+   "Yesterday he went to the market"
+  ]
+ },
+ {
+  "id": 143,
+  "l": 1,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "what",
+   "time",
+   "does",
+   "the",
+   "film",
+   "start"
+  ],
+  "s": "What time does the film start"
+ },
+ {
+  "id": 144,
+  "l": 1,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "we",
+   "are",
+   "going",
+   "to",
+   "visit",
+   "our",
+   "grandparents"
+  ],
+  "s": "We are going to visit our grandparents"
+ },
+ {
+  "id": 145,
+  "l": 2,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "if",
+   "it",
+   "rains",
+   "we",
+   "will",
+   "stay",
+   "at",
+   "home"
+  ],
+  "s": "If it rains we will stay at home",
+  "alt": [
+   "We will stay at home if it rains"
+  ]
+ },
+ {
+  "id": 146,
+  "l": 2,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "she",
+   "asked",
+   "me",
+   "where",
+   "i",
+   "had",
+   "been"
+  ],
+  "s": "She asked me where I had been"
+ },
+ {
+  "id": 147,
+  "l": 2,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "the",
+   "book",
+   "was",
+   "written",
+   "by",
+   "a",
+   "young",
+   "author"
+  ],
+  "s": "The book was written by a young author"
+ },
+ {
+  "id": 148,
+  "l": 3,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "the",
+   "report",
+   "should",
+   "have",
+   "been",
+   "finished",
+   "yesterday"
+  ],
+  "s": "The report should have been finished yesterday"
+ },
+ {
+  "id": 149,
+  "l": 3,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "not",
+   "only",
+   "did",
+   "he",
+   "apologise",
+   "but",
+   "he",
+   "also",
+   "paid",
+   "for",
+   "the",
+   "damage"
+  ],
+  "s": "Not only did he apologise but he also paid for the damage"
+ },
+ {
+  "id": 150,
+  "l": 3,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "she",
+   "denied",
+   "having",
+   "taken",
+   "the",
+   "money"
+  ],
+  "s": "She denied having taken the money"
+ },
+ {
+  "id": 151,
+  "l": 4,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "had",
+   "i",
+   "known",
+   "earlier",
+   "i",
+   "would",
+   "have",
+   "helped"
+  ],
+  "s": "Had I known earlier I would have helped"
+ },
+ {
+  "id": 152,
+  "l": 4,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "rarely",
+   "have",
+   "i",
+   "seen",
+   "such",
+   "a",
+   "remarkable",
+   "performance"
+  ],
+  "s": "Rarely have I seen such a remarkable performance"
+ },
+ {
+  "id": 153,
+  "l": 4,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "it",
+   "is",
+   "high",
+   "time",
+   "we",
+   "took",
+   "a",
+   "decision"
+  ],
+  "s": "It is high time we took a decision"
+ },
+ {
+  "id": 154,
+  "l": 5,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "were",
+   "it",
+   "not",
+   "for",
+   "her",
+   "tenacity",
+   "the",
+   "project",
+   "would",
+   "have",
+   "collapsed"
+  ],
+  "s": "Were it not for her tenacity the project would have collapsed"
+ },
+ {
+  "id": 155,
+  "l": 5,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "so",
+   "persuasive",
+   "was",
+   "his",
+   "argument",
+   "that",
+   "nobody",
+   "dared",
+   "object"
+  ],
+  "s": "So persuasive was his argument that nobody dared object"
+ },
+ {
+  "id": 156,
+  "l": 5,
+  "t": "o",
+  "q": "Put the words in order.",
+  "words": [
+   "little",
+   "did",
+   "they",
+   "realise",
+   "how",
+   "serious",
+   "the",
+   "situation",
+   "was"
+  ],
+  "s": "Little did they realise how serious the situation was"
+ }
+]
